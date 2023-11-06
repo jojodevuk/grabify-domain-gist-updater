@@ -1,0 +1,22 @@
+{
+  "name": "grabify-gist-updater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojodevuk/grabify-domain-gist-updater.git"
+  },
+  "author": "jojodevuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojodevuk/grabify-domain-gist-updater/issues"
+  },
+  "homepage": "https://github.com/jojodevuk/grabify-domain-gist-updater#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
